@@ -1,0 +1,46 @@
+{
+  "workouts": [
+    {
+      "id": 1,
+      "workout": "Benching",
+      "reps": "4x10",
+      "rest": "2 min"
+    },
+    {
+      "id": 2,
+      "workout": "Barbell Curls",
+      "reps": "3x10",
+      "rest": "2 min"
+    },
+    {
+      "id": 3,
+      "workout": "Tricep dips",
+      "reps": "3x10",
+      "rest": "2 min"
+    },
+    {
+      "id": 4,
+      "workout": "Seated DB Shoulder Press",
+      "reps": "4x10",
+      "rest": "2 min"
+    },
+    {
+      "workout": "squats",
+      "reps": "4x12",
+      "rest": "3 min",
+      "id": 5
+    },
+    {
+      "workout": "squats",
+      "reps": "4x12",
+      "rest": "3 min",
+      "id": 6
+    },
+    {
+      "workout": "curls",
+      "reps": "4x12",
+      "rest": "3 min",
+      "id": 7
+    }
+  ]
+}
